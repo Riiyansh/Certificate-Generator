@@ -79,7 +79,8 @@ draw.text((x, y), name, fill=(0, 0, 0), font=font)
 ## 📸 Sample Output
 
 Here’s what the generated certificates look like:
-*(Add screenshots here if desired)*
+![Uploading Screenshot 2025-07-17 at 9.25.36 AM.png…]()
+
 
 ## 🧠 Use Cases
 
